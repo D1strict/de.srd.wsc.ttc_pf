@@ -6,8 +6,8 @@
 		<packagedescription><![CDATA[Adds a user profile field for the video streaming service Twitch.]]></packagedescription>
 		<packagedescription language="de"><![CDATA[Fügt ein Benutzerprofilfeld für den Videostreamingdienst Twitch hinzu.]]></packagedescription>
 		<packageurl><![CDATA[https://shop.d1strict.de/product/4-twitch-profilfeld/]]></packageurl>
-		<version><![CDATA[1.0.1]]></version>
-		<date><![CDATA[2020-10-10]]></date>
+		<version><![CDATA[1.0.2]]></version>
+		<date><![CDATA[2021-06-07]]></date>
 		<license><![CDATA[Lizenz: <https://d1strict.de/free/>]]></license>
 	</packageinformation>
 
@@ -17,7 +17,7 @@
 	</authorinformation>
 
 	<requiredpackages>
-		<requiredpackage minversion="5.2.0"><![CDATA[com.woltlab.wcf]]></requiredpackage>
+		<requiredpackage minversion="5.3.0"><![CDATA[com.woltlab.wcf]]></requiredpackage>
 	</requiredpackages>
 
 	<excludedpackages>
